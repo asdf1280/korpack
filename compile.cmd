@@ -14,7 +14,7 @@ echo 자동 입력됨: %PF%
 echo -------------------------
 echo 아래에 pack.mcmeta description을 입력하십시오.
 rem set /p "DS=입력:"
-set "DS=Korpack MC KOR translation (2.0, 1.13.2)"
+set "DS=Korpack MC KOR translation (2.2, 1.13.2)"
 echo 자동 입력됨: %DS%
 echo pack.mcmeta를 작성하는 중...
 echo { >> pack.mcmeta
